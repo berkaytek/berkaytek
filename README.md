@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer specializing in
 
 ## About Me
 
-- 🔭 I’m currently working as a software engineer in the field of Fullstack Development.
+- 🔭 I’m currently working as a software engineer in the field of Fullstack Development (Focused on Java, Javascript and Python).
 - 🌱 I’m constantly learning and exploring new technologies to expand my skillset.
 - 💼 I have experience working with both microservice and monolithic architectures.
 - 💬 Ask me about Java, React, NextJS, Spring Boot, Flutter, or any other technology I've mentioned.
