@@ -1,16 +1,104 @@
-### Hi there 👋
+# Hi there! I'm Berkay Aytek 👋
 
-<!--
-**berkaytek/berkaytek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software engineer specializing in Fullstack Development, Frontend Development, Java development, and Mobile development. I have experience working with various technologies and frameworks, including Java, React, NextJS, Typescript, Flutter, React Native, and more. I'm also proficient in languages like Java, JavaScript, and Python.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a software engineer in the field of Fullstack Development.
+- 🌱 I’m constantly learning and exploring new technologies to expand my skillset.
+- 💼 I have experience working with both microservice and monolithic architectures.
+- 👯 I’m open to collaborating on exciting software projects.
+- 💬 Ask me about Java, React, NextJS, Spring Boot, Flutter, or any other technology I've mentioned.
+
+## GitHub and Stack Overflow Profiles
+
+- GitHub: [berkaytek](https://github.com/berkaytek)
+- Stack Overflow: [berkayaytek](https://stackoverflow.com/users/19837400/berkayaytek)
+
+## My Full Stack
+
+### Frontend
+
+- React
+- NextJS
+- TypeScript
+- JavaScript
+- Redux (preferably on apps without NextJS)
+- Tailwind
+- MaterialUI
+- Bootstrap (4 and 5)
+- HTML5 and CSS
+
+### Backend
+
+- Java
+- J2EE
+- Spring Boot & Spring Framework
+- JPA
+- Hibernate
+- Hateoas
+- Kafka
+- Event Driven Design
+- REST APIs (with HAL)
+- MQTT-based applications
+- Microservice and monolithic architectures
+- .NET (mostly .NET Core and later)
+- Python (Django)
+- Entity Framework
+- ORM
+
+### Mobile
+
+- Flutter
+- React Native using TypeScript
+
+### Database
+
+- Microsoft SQL
+- PostgreSQL
+- MongoDB
+- Oracle
+
+### CI/CD
+
+- Azure DevOps
+- Git
+
+### Development Cycle
+
+- Agile (Scrum)
+- Waterfall
+
+### Containerization / DevOps
+
+- Docker
+- Docker Compose
+- Kubernetes
+
+### Operating System
+
+- Linux (preferred)
+- Windows
+
+### Robotics
+
+I'm also focused on building traffic management solutions for ROS-based robots using Java. Here are some of the technologies and tools I work with:
+
+- Robot Operating System (ROS)
+- SLAM and navigation using ROS
+- Gazebo
+- RViz
+- Communication, control, and visualizations of robots using MQTT or HTTP
+- Full stack web applications
+
+## Projects
+
+Feel free to explore some of the cool projects I've worked on. You can find them in the repositories section of my GitHub profile.
+
+## Contact Me
+
+If you'd like to get in touch, feel free to reach out to me through the following channels:
+
+- LinkedIn: [Berkay Aytek](https://www.linkedin.com/in/berkay-aytek/)
+
+Looking forward to connecting with you!
