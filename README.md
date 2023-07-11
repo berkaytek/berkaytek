@@ -106,4 +106,4 @@ Contributions on Azure DevOps (I primarily work in Azure DevOps):
 
 ![image](https://github.com/berkaytek/berkaytek/assets/63856383/98347183-f4a4-4071-8eca-cf93061004dd)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaytek)](https://github.com/anuraghazra/github-readme-stats)
