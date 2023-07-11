@@ -1,4 +1,4 @@
-# Hi there! I'm Berkay Aytek 👋
+# Hi there! I'm Berkay 👋
 
 Welcome to my GitHub profile! I'm a passionate software engineer specializing in Fullstack Development, Frontend Development, Java development, and Mobile development. I have experience working with various technologies and frameworks, especially in Java, React (NextJS), Typescript & Javascript and .NET. I also have experience in developing mobile apps using React Native and recently taken interest in Flutter.
 
@@ -102,7 +102,7 @@ If you'd like to get in touch, feel free to reach out to me through the followin
 
 Looking forward to connecting with you!
 
-Contributions on Azure:
+Contributions on Azure DevOps (I primarily work in Azure DevOps):
 
 ![image](https://github.com/berkaytek/berkaytek/assets/63856383/98347183-f4a4-4071-8eca-cf93061004dd)
 
