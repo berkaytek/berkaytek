@@ -103,6 +103,7 @@ If you'd like to get in touch, feel free to reach out to me through the followin
 Looking forward to connecting with you!
 
 Contributions on Azure:
-![image](https://github.com/berkaytek/berkaytek/assets/63856383/222c162d-00c5-4654-ae97-1cf972a1aa91)
+
+![image](https://github.com/berkaytek/berkaytek/assets/63856383/98347183-f4a4-4071-8eca-cf93061004dd)
 
 
