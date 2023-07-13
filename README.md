@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer specializing in Fullstack Development, Frontend Development, Java development, and Mobile development. I have experience working with various technologies and frameworks, especially in Java, React (NextJS), Typescript & Javascript and .NET. I also have experience in developing mobile apps using React Native and recently taken interest in Flutter.
 
-Check my live projects (from my public repositories) online:
+Check my live projects (on development) (from my public repositories) online:
 Frontend: https://be-movies.vercel.app/
 Backend: https://be-movies-backend.onrender.com/swagger-ui/index.html
 
